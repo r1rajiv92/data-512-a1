@@ -24,15 +24,15 @@ For this project, we used the APIs provided by wikipedia.
 For each month, year - the dataset provides the pagecount and pageviews at an accestype level (desktop/mobile) as well as an overall level
 
 COLUMNS:
-year - 2008 to 2017
-month - 1:12 from Januray to December
-pagecount_all_views - all page counts in month, year
-pagecount_desktop_views - dekstop page counts in month, year
-pagecount_mobile_views - mobile all page counts in month, year
-pageview_all_views - all page views in month, year (remove crawlers)
-pageview_desktop_views - desktop page views in month, year (remove crawlers)
-pageview_mobile_views - desktop page views in month, year (remove crawlers)
- 
+year - 2008 to 2017  
+month - 1:12 from Januray to December  
+pagecount_all_views - all page counts in month, year  
+pagecount_desktop_views - dekstop page counts in month, year  
+pagecount_mobile_views - mobile all page counts in month, year  
+pageview_all_views - all page views in month, year (remove crawlers)  
+pageview_desktop_views - desktop page views in month, year (remove crawlers)  
+pageview_mobile_views - desktop page views in month, year (remove crawlers)  
+  
 ### Notables
 
 1. Pagecount data was missing for mobile site from 2008 to 2014. This is probably because wikipedia is currently not exposing these results to us.
